@@ -1,0 +1,27 @@
+body {
+    
+    color:#ffffff;
+    min-height: 600px;
+    text-align: center; 
+    background-color:#050505 ;
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat
+   
+   
+}  
+
+.page-title {
+
+    color: #ffffff;
+ 
+    
+}
+
+.page-subtitle {
+      
+    color: #ffffff;
+    
+
+}
+ 
