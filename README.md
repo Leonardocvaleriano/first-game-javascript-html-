@@ -1,5 +1,5 @@
 <h2>  Objective 🎯</h2>
-<p> Plan of Study objective: To Build a game which the player need to hit the target, it's a classic target shooting game. </p>
+<p> The objective of the study plan was:  Develop a game in which the player has to hit the target, it's a classic target shooting game.</p>
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/97267699/165150919-d5190140-9298-4390-a54b-ca55ab2f3ad5.gif)
 
@@ -15,13 +15,12 @@
    Conditions
 - Array
 - Functions  
+ 
+<b>HTML</b> 
 
+- Basics Tags
+- Integrated with external links (CSS, Javascript)<br> 
 
-<br> 
-
-<b>HTML</b>
-- Basics Tags 
-- Integrated with external links (CSS, Javascript) 
 
 <b>CSS</b>
 - Initial config to external inputs 
