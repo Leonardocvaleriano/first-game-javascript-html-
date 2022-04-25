@@ -10,8 +10,8 @@
 
 - Initials sintaxes from JavaScript 
 - Initial sintaxes from HTML
-- Control Flow 
-   Loop
+- Control Flow <br> 
+   Loop<br> 
    Conditions
 - Array
 - Functions  
